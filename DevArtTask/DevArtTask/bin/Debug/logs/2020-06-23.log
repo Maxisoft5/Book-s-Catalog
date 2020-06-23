@@ -585,3 +585,15 @@ Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
 Database: 
 State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
 2020-06-23 20:19:12.6022 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 20:19:12
+2020-06-23 22:51:39.4963 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 22:51:41.0211 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 22:51:41
+2020-06-23 22:52:50.4634 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 22:52:50
+2020-06-23 22:52:52.2666 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 22:52:52
+2020-06-23 22:54:52.9607 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 22:54:58.0082 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 22:54:58

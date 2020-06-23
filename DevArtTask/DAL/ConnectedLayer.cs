@@ -1,9 +1,7 @@
-﻿using Devart.Data.SQLite;
-using NLog;
+﻿using NLog;
 using System;
 using System.Configuration;
 using System.Data.SqlClient;
-using System.Text;
 
 namespace DAL
 {
