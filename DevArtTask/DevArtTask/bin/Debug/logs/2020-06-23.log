@@ -1,0 +1,537 @@
+2020-06-23 00:01:32.6349 | TRACE | DAL.Repositories.BookRepository | —сылка на объект не указывает на экземпл€р объекта.. Error encountered during INSERT operation. - 23.06.2020 0:01:32
+2020-06-23 00:03:32.2689 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 00:03:33.1137 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 0:03:33
+2020-06-23 00:03:43.9736 | TRACE | DAL.Repositories.BookRepository | —сылка на объект не указывает на экземпл€р объекта.. Error encountered during INSERT operation. - 23.06.2020 0:03:43
+2020-06-23 00:03:43.9756 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 0:03:43
+2020-06-23 00:04:55.3540 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 00:05:06.0095 | TRACE | DAL.Repositories.BookRepository | SQLite error
+near "WHERE": syntax error. Error encountered during INSERT operation. - 23.06.2020 0:05:06
+2020-06-23 00:05:06.0095 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 0:05:06
+2020-06-23 00:05:58.2711 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 00:06:03.5431 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 00:06:17.9405 | TRACE | DAL.Repositories.BookRepository | SQLite error
+near "WHERE": syntax error. Error encountered during INSERT operation. - 23.06.2020 0:06:17
+2020-06-23 00:06:17.9405 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 0:06:17
+2020-06-23 00:07:20.2509 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 00:07:31.9595 | TRACE | DAL.Repositories.BookRepository | SQLite error
+near "WHERE": syntax error. Error encountered during INSERT operation. - 23.06.2020 0:07:31
+2020-06-23 00:07:31.9595 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 0:07:31
+2020-06-23 00:07:49.7071 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 00:22:02.9786 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 00:22:04.1884 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 0:22:04
+2020-06-23 00:23:14.2141 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 00:23:15.2373 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 0:23:15
+2020-06-23 00:23:58.7110 | TRACE | DAL.Repositories.BookRepository | SQLite error
+near "WHERE": syntax error. Error encountered during INSERT operation. - 23.06.2020 0:23:58
+2020-06-23 00:23:58.7110 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 0:23:58
+2020-06-23 00:27:58.4402 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 00:28:01.6017 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 0:28:01
+2020-06-23 00:28:30.5523 | TRACE | DAL.Repositories.BookRepository | SQLite error
+near "WHERE": syntax error. Error encountered during INSERT operation. - 23.06.2020 0:28:30
+2020-06-23 00:28:30.5523 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 0:28:30
+2020-06-23 00:28:30.5523 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 0:28:30
+2020-06-23 00:31:05.4190 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 00:31:06.9788 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 0:31:06
+2020-06-23 00:39:11.3571 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 00:39:12.6287 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 0:39:12
+2020-06-23 00:41:13.3857 | TRACE | DAL.Repositories.BookRepository | Abort due to constraint violation
+CHECK constraint failed: BookAuthor. Error encountered during INSERT operation. - 23.06.2020 0:41:13
+2020-06-23 00:41:13.3857 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 0:41:13
+2020-06-23 00:43:09.8890 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 00:43:13.0177 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 0:43:13
+2020-06-23 00:43:24.8231 | TRACE | DAL.Repositories.BookRepository | Abort due to constraint violation
+CHECK constraint failed: BookAuthor. Error encountered during INSERT operation. - 23.06.2020 0:43:24
+2020-06-23 00:43:24.8231 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 0:43:24
+2020-06-23 00:43:57.7870 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 00:44:07.3005 | TRACE | DAL.Repositories.BookRepository | Abort due to constraint violation
+CHECK constraint failed: BookAuthor. Error encountered during INSERT operation. - 23.06.2020 0:44:07
+2020-06-23 00:44:07.3005 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 0:44:07
+2020-06-23 00:45:00.9938 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 00:45:18.2208 | TRACE | DAL.Repositories.BookRepository | Abort due to constraint violation
+CHECK constraint failed: BookAuthor. Error encountered during INSERT operation. - 23.06.2020 0:45:18
+2020-06-23 00:45:18.2208 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 0:45:18
+2020-06-23 00:46:52.0259 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 00:46:58.0807 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 00:55:10.9477 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 00:55:12.0617 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 0:55:12
+2020-06-23 00:55:32.4692 | TRACE | DAL.Repositories.BookRepository | SQLite error
+4 values for 5 columns. Error encountered during INSERT operation. - 23.06.2020 0:55:32
+2020-06-23 00:55:32.4692 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 0:55:32
+2020-06-23 00:56:30.9218 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 00:56:48.1098 | TRACE | DAL.Repositories.BookRepository | SQLite error
+4 values for 5 columns. Error encountered during INSERT operation. - 23.06.2020 0:56:48
+2020-06-23 00:56:48.1098 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 0:56:48
+2020-06-23 01:20:05.8261 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 01:20:07.6802 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 1:20:07
+2020-06-23 01:20:29.1238 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 01:20:49.0246 | TRACE | DAL.Repositories.BookRepository | SQLite error
+4 values for 5 columns. Error encountered during INSERT operation. - 23.06.2020 1:20:49
+2020-06-23 01:20:49.0246 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 1:20:49
+2020-06-23 01:22:05.8461 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 01:23:46.1070 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 01:25:35.9502 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 01:26:29.0990 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 01:28:14.8940 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 01:28:36.1292 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 1:28:36
+2020-06-23 01:28:54.4891 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 1:28:54
+2020-06-23 01:29:36.1945 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 1:29:36
+2020-06-23 01:29:37.2776 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 1:29:37
+2020-06-23 03:01:08.9781 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:01:10.5489 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:01:10
+2020-06-23 03:01:45.0715 | TRACE | DAL.Repositories.BookRepository | SQLite error
+no such column: Taleb. Error encountered during INSERT operation. - 23.06.2020 3:01:45
+2020-06-23 03:01:45.0715 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 3:01:45
+2020-06-23 03:03:11.3976 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:03:13.1140 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:03:13
+2020-06-23 03:03:48.3060 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 3:03:48
+2020-06-23 03:03:49.9246 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:03:49
+2020-06-23 03:06:59.0008 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:07:36.3100 | TRACE | DAL.Repositories.BookRepository | SQLite error
+1 values for 2 columns. Error encountered during INSERT operation. - 23.06.2020 3:07:36
+2020-06-23 03:07:36.3100 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 3:07:36
+2020-06-23 03:17:50.6111 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:17:51.2623 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:17:51
+2020-06-23 03:24:06.3481 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:24:09.8028 | TRACE | DAL.Repositories.BookRepository | »ндекс (отсчитываемый от нул€) должен быть больше или равен нулю, но меньше размера списка аргументов..Error encountered during READING operation. - 23.06.2020 3:24:09
+2020-06-23 03:24:09.8028 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:24:09
+2020-06-23 03:24:47.5259 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:24:48.3267 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:24:48
+2020-06-23 03:25:04.9373 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:25:06.0902 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:25:06
+2020-06-23 03:25:21.8620 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:25:22.9920 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:25:22
+2020-06-23 03:28:57.6139 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:28:59.6944 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:28:59
+2020-06-23 03:30:16.2785 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:30:17.2958 | TRACE | DAL.Repositories.BookRepository | »ндекс (отсчитываемый от нул€) должен быть больше или равен нулю, но меньше размера списка аргументов..Error encountered during READING operation. - 23.06.2020 3:30:17
+2020-06-23 03:30:17.2958 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:30:17
+2020-06-23 03:30:29.7844 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:30:30.2900 | TRACE | DAL.Repositories.BookRepository | »ндекс (отсчитываемый от нул€) должен быть больше или равен нулю, но меньше размера списка аргументов..Error encountered during READING operation. - 23.06.2020 3:30:30
+2020-06-23 03:30:30.2900 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:30:30
+2020-06-23 03:30:44.8790 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:30:45.4644 | TRACE | DAL.Repositories.BookRepository | »ндекс (отсчитываемый от нул€) должен быть больше или равен нулю, но меньше размера списка аргументов..Error encountered during READING operation. - 23.06.2020 3:30:45
+2020-06-23 03:30:45.4644 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:30:45
+2020-06-23 03:31:23.0290 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:31:25.8594 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:31:25
+2020-06-23 03:33:33.3832 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:33:34.3457 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:33:34
+2020-06-23 03:33:58.5210 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:33:59.8285 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:33:59
+2020-06-23 03:34:09.1666 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:34:09.8098 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:34:09
+2020-06-23 03:34:21.8377 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:34:22.7302 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:34:22
+2020-06-23 03:34:36.3059 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:34:37.2943 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:34:37
+2020-06-23 03:35:04.6222 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:35:05.2356 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:35:05
+2020-06-23 03:36:53.3643 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:36:54.6998 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:36:54
+2020-06-23 03:37:05.4739 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:37:06.2020 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:37:06
+2020-06-23 03:37:19.6251 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:37:20.2414 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:37:20
+2020-06-23 03:38:01.8431 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:38:03.5057 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:38:03
+2020-06-23 03:38:35.9449 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:38:38.6846 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:38:38
+2020-06-23 03:39:18.8755 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:39:19.5307 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:39:19
+2020-06-23 03:39:33.2790 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:39:34.4807 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:39:34
+2020-06-23 03:39:56.6505 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:39:58.5693 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:39:58
+2020-06-23 03:40:06.5629 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:40:07.1374 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:40:07
+2020-06-23 03:46:59.4894 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:47:00.6303 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:47:00
+2020-06-23 03:47:26.8891 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:47:30.8525 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:47:30
+2020-06-23 03:48:05.0420 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:48:07.6291 | TRACE | DAL.Repositories.BookRepository | »ндекс (отсчитываемый от нул€) должен быть больше или равен нулю, но меньше размера списка аргументов..Error encountered during READING operation. - 23.06.2020 3:48:07
+2020-06-23 03:48:07.6291 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:48:07
+2020-06-23 03:48:16.5203 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:48:16.9162 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:48:16
+2020-06-23 03:48:41.0537 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:48:41.4935 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:48:41
+2020-06-23 03:48:50.1294 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:48:50.4964 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:48:50
+2020-06-23 03:49:57.6838 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:49:58.1585 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:49:58
+2020-06-23 03:50:12.5550 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:50:13.8555 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:50:13
+2020-06-23 03:50:44.5434 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:50:44.9293 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:50:44
+2020-06-23 03:50:58.5060 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:50:58.8102 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:50:58
+2020-06-23 03:51:17.0873 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:51:17.7366 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:51:17
+2020-06-23 03:51:30.9403 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:51:31.6065 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:51:31
+2020-06-23 03:52:02.4420 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:52:02.9387 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:52:02
+2020-06-23 03:52:24.2657 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:52:24.8191 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:52:24
+2020-06-23 03:52:38.8516 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:52:39.4739 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:52:39
+2020-06-23 03:54:34.9930 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:54:35.6252 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:54:35
+2020-06-23 03:54:59.4066 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 3:54:59
+2020-06-23 03:55:02.1663 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:55:02
+2020-06-23 03:56:21.1231 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:56:23.0439 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:56:23
+2020-06-23 03:57:15.5495 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 3:57:15
+2020-06-23 03:57:20.8503 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:57:20
+2020-06-23 03:58:25.6839 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 03:58:26.3281 | TRACE | DAL.Repositories.BookRepository | SQLite error
+no such column: Author.bookid. Error encountered during READING operation. - 23.06.2020 3:58:26
+2020-06-23 03:58:26.3281 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 3:58:26
+2020-06-23 04:20:41.6882 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 04:20:42.4422 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 4:20:42
+2020-06-23 04:21:38.4105 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 04:21:39.4248 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 4:21:39
+2020-06-23 04:22:27.2828 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 04:22:27.8043 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 4:22:27
+2020-06-23 04:25:28.7843 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 04:25:30.3052 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 4:25:30
+2020-06-23 04:30:08.2038 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 04:30:08.6586 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 4:30:08
+2020-06-23 04:36:41.9785 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 04:36:42.5340 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 4:36:42
+2020-06-23 04:37:31.7923 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 04:37:32.7487 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 4:37:32
+2020-06-23 04:38:33.5130 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 04:38:35.1985 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 4:38:35
+2020-06-23 04:39:39.5504 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 04:39:40.8190 | TRACE | DAL.Repositories.BookRepository | SQLite error
+no such column: BookAuthor.bookid. Error encountered during READING operation. - 23.06.2020 4:39:40
+2020-06-23 04:39:40.8190 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 4:39:40
+2020-06-23 04:40:21.2648 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 04:40:21.8313 | TRACE | DAL.Repositories.BookRepository | SQLite error
+no such column: Book.bookname. Error encountered during READING operation. - 23.06.2020 4:40:21
+2020-06-23 04:40:21.8313 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 4:40:21
+2020-06-23 04:40:44.6233 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 04:40:45.1658 | TRACE | DAL.Repositories.BookRepository | SQLite error
+no such column: Book.bookname. Error encountered during READING operation. - 23.06.2020 4:40:45
+2020-06-23 04:40:45.1658 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 4:40:45
+2020-06-23 04:41:41.2548 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 04:41:41.8672 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 4:41:41
+2020-06-23 04:42:03.8135 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 04:42:04.8547 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 4:42:04
+2020-06-23 04:42:54.3613 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 04:43:00.0311 | TRACE | DAL.Repositories.BookRepository | SQLite error
+no such column: Author.firstname. Error encountered during READING operation. - 23.06.2020 4:43:00
+2020-06-23 04:43:00.0311 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 4:43:00
+2020-06-23 04:43:08.5852 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 04:43:09.0769 | TRACE | DAL.Repositories.BookRepository | SQLite error
+no such column: Author.firstname. Error encountered during READING operation. - 23.06.2020 4:43:09
+2020-06-23 04:43:09.0769 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 4:43:09
+2020-06-23 04:43:41.2349 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 04:43:41.7465 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 4:43:41
+2020-06-23 04:45:07.4902 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 04:45:08.2112 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 4:45:08
+2020-06-23 04:48:03.2281 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 04:49:20.9482 | TRACE | DAL.Repositories.BookRepository | INSERT operation successfully completed at 23.06.2020 4:49:20
+2020-06-23 04:49:24.7789 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 4:49:24
+2020-06-23 05:16:25.4883 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 05:16:25.8374 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 5:16:25
+2020-06-23 05:18:23.4144 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 05:18:23.9728 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 5:18:23
+2020-06-23 05:18:49.8925 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 05:18:50.5139 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 5:18:50
+2020-06-23 05:22:31.6318 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 05:22:32.1663 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 5:22:32
+2020-06-23 05:23:44.8719 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 05:23:45.3097 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 5:23:45
+2020-06-23 05:24:11.4348 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 05:24:11.9305 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 5:24:11
+2020-06-23 05:24:30.1577 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 05:24:30.7641 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 5:24:30
