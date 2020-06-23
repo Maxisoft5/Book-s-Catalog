@@ -10,10 +10,8 @@ namespace DAL
     public class ConnectedLayer
     {
         public readonly string connectionString = ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
-        private readonly SQLiteCommand cmd;
         Logger logger = LogManager.GetCurrentClassLogger();
         SqlConnectionStringBuilder sqlsb;
-        StringBuilder sb;
         public ConnectedLayer()
         {
             sqlsb = new SqlConnectionStringBuilder(connectionString);

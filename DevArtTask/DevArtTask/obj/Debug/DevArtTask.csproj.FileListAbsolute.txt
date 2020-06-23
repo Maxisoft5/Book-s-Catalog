@@ -22,3 +22,5 @@ C:\Users\Maxisoft\source\repos\DevArtTask\DevArtTask\bin\Debug\DevArtTask.exe.ma
 C:\Users\Maxisoft\source\repos\DevArtTask\DevArtTask\bin\Debug\DevArtTask.application
 C:\Users\Maxisoft\source\repos\DevArtTask\DevArtTask\obj\Debug\DevArtTask.exe.manifest
 C:\Users\Maxisoft\source\repos\DevArtTask\DevArtTask\obj\Debug\DevArtTask.application
+C:\Users\Maxisoft\source\repos\DevArtTask\DevArtTask\bin\Debug\EntityFramework.dll
+C:\Users\Maxisoft\source\repos\DevArtTask\DevArtTask\bin\Debug\EntityFramework.xml

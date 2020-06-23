@@ -16,3 +16,7 @@ C:\Users\Maxisoft\source\repos\DevArtTask\DAL\obj\Debug\DevArtTask.DAL.csproj.Co
 C:\Users\Maxisoft\source\repos\DevArtTask\DAL\obj\Debug\DAL.dll
 C:\Users\Maxisoft\source\repos\DevArtTask\DAL\obj\Debug\DAL.pdb
 C:\Users\Maxisoft\source\repos\DevArtTask\DAL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Maxisoft\source\repos\DevArtTask\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Maxisoft\source\repos\DevArtTask\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maxisoft\source\repos\DevArtTask\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Maxisoft\source\repos\DevArtTask\DAL\bin\Debug\EntityFramework.SqlServer.xml

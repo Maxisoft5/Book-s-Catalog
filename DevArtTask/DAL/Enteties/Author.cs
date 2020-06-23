@@ -1,20 +1,17 @@
-﻿using System.Collections.Generic;
+﻿using DAL.Enteties.Abstracions;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace DAL.Enteties
 {
-    public class Author
+    public class Author : BaseEntity
     {
-        public int Id { get; set; }
-        [Required, MaxLength(45)]
+        [Required(ErrorMessage = "Enter author's firstname"), MaxLength(45)]
         [RegularExpression(@"(^\w)|(\s\w)")]
-        public string Firstname { get;set; }
-        [Required, MaxLength(45)]
+        public string Firstname { get; set; }
+        [Required(ErrorMessage = "Enter author's lastname"), MaxLength(45)]
         [RegularExpression(@"(^\w)|(\s\w)")]
         public string Lirstname { get; set; }
-        [Required, MaxLength(45)]
-        [RegularExpression(@"(^\w)|(\s\w)")]
-        public string Middlename { get; set; }
         public virtual ICollection<AuthorBook> AuthorBooks { get; set; }
     }
 }

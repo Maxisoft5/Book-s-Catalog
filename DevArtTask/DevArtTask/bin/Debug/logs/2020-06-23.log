@@ -535,3 +535,53 @@ Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
 Database: 
 State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
 2020-06-23 05:24:30.7641 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 5:24:30
+2020-06-23 17:53:17.1604 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 17:53:50.0255 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 17:53:50
+2020-06-23 20:06:23.6110 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: BooksDb.db
+2020-06-23 20:06:26.0208 | TRACE | DAL.Repositories.BookRepository | Unable to open database file. Error encountered during READING operation. - 23.06.2020 20:06:26
+2020-06-23 20:06:26.0208 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 20:06:26
+2020-06-23 20:07:31.5951 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 20:07:32.8188 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 20:07:32
+2020-06-23 20:07:47.7368 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 20:08:58.9321 | TRACE | DAL.Repositories.BookRepository | Unable to open database file. Error encountered during READING operation. - 23.06.2020 20:08:58
+2020-06-23 20:08:58.9321 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 20:08:58
+2020-06-23 20:09:13.8517 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: ~\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: ~\DevArtTask\BooksDb.db
+2020-06-23 20:09:16.2620 | TRACE | DAL.Repositories.BookRepository | Unable to open database file. Error encountered during READING operation. - 23.06.2020 20:09:16
+2020-06-23 20:09:16.2620 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 20:09:16
+2020-06-23 20:09:23.1871 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: ..\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: ..\DevArtTask\BooksDb.db
+2020-06-23 20:09:24.3405 | TRACE | DAL.Repositories.BookRepository | Unable to open database file. Error encountered during READING operation. - 23.06.2020 20:09:24
+2020-06-23 20:09:24.3405 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 20:09:24
+2020-06-23 20:15:26.1944 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: ..\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: ..\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 20:15:27.5679 | TRACE | DAL.Repositories.BookRepository | Unable to open database file. Error encountered during READING operation. - 23.06.2020 20:15:27
+2020-06-23 20:15:27.5679 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 20:15:27
+2020-06-23 20:15:36.9591 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 20:15:38.7657 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 20:15:38
+2020-06-23 20:19:11.1560 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-23 20:19:12.6022 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 23.06.2020 20:19:12
