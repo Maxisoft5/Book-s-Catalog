@@ -1,0 +1,12 @@
+2020-06-27 12:59:03.2694 | TRACE | API.DAL.EF.Repositories.BaseRepository | Ошибка при создании обработчика раздела конфигурации для system.data: На столбец "InvariantName" наложено ограничение по уникальности. Значение "Devart.Data.SQLite" уже имеется. (C:\Users\Maxisoft\source\repos\ConsoleApp5\API\bin\Debug\API.exe.Config line 13).Error encountered during READING operation. - 27.06.2020 12:59:03
+2020-06-27 12:59:03.3123 | TRACE | API.DAL.EF.Repositories.BaseRepository | READING operation ended at 27.06.2020 12:59:03;
+2020-06-27 15:03:16.3955 | TRACE | API.DAL.EF.Repositories.BaseRepository | READING operation ended at 27.06.2020 15:03:16;
+2020-06-27 15:04:13.1808 | TRACE | API.DAL.EF.Repositories.BaseRepository | READING operation ended at 27.06.2020 15:04:13;
+2020-06-27 15:04:14.5731 | TRACE | API.DAL.EF.Repositories.BaseRepository | READING operation ended at 27.06.2020 15:04:14;
+2020-06-27 15:04:30.0148 | TRACE | API.DAL.EF.Repositories.BaseRepository | READING operation ended at 27.06.2020 15:04:30;
+2020-06-27 15:06:11.4076 | TRACE | API.DAL.EF.Repositories.BaseRepository | Validation failed for one or more entities. See 'EntityValidationErrors' property for more details..Error encountered during INSERT operation. - 27.06.2020 15:06:11
+2020-06-27 15:06:11.4266 | TRACE | API.DAL.EF.Repositories.BaseRepository | READING operation ended at 27.06.2020 15:06:11;
+2020-06-27 15:07:49.3447 | TRACE | API.DAL.EF.Repositories.BaseRepository | READING operation ended at 27.06.2020 15:07:49;
+2020-06-27 15:07:50.6452 | TRACE | API.DAL.EF.Repositories.BaseRepository | READING operation ended at 27.06.2020 15:07:50;
+2020-06-27 15:09:14.8102 | TRACE | API.DAL.EF.Repositories.BaseRepository | READING operation ended at 27.06.2020 15:09:14;
+2020-06-27 15:10:07.1174 | TRACE | API.DAL.EF.Repositories.BaseRepository | READING operation ended at 27.06.2020 15:10:07;
