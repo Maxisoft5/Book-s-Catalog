@@ -1,5 +1,4 @@
-﻿using DAL.EF;
-using DAL.Enteties;
+﻿using DAL.Enteties;
 using DAL.Repositories.Interfaces;
 using Devart.Data.SQLite;
 using NLog;
@@ -11,10 +10,6 @@ namespace DAL.Repositories
     {
         readonly Logger logger = LogManager.GetCurrentClassLogger();
         ConnectedLayer layer;
-        public AuthorRepository(BookCatalogContext context)
-        {
-
-        }
         public AuthorRepository()
         {
             layer = new ConnectedLayer();

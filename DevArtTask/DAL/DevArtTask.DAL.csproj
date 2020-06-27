@@ -40,23 +40,11 @@
     <Reference Include="Devart.Data.SQLite, Version=5.15.1666.0, Culture=neutral, PublicKeyToken=09af7300eec23701, processorArchitecture=MSIL">
       <HintPath>..\packages\Devart.Data.SQLite.5.15.1666\lib\netstandard2.0\Devart.Data.SQLite.dll</HintPath>
     </Reference>
-    <Reference Include="Devart.Data.SQLite.Entity.EFCore, Version=5.15.1666.0, Culture=neutral, PublicKeyToken=09af7300eec23701, processorArchitecture=MSIL">
-      <HintPath>..\packages\Devart.Data.SQLite.EFCore.5.15.1666\lib\netstandard2.0\Devart.Data.SQLite.Entity.EFCore.dll</HintPath>
-    </Reference>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
     <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.EntityFrameworkCore, Version=2.2.6.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.EntityFrameworkCore.2.2.6\lib\netstandard2.0\Microsoft.EntityFrameworkCore.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.EntityFrameworkCore.Abstractions, Version=2.2.6.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.EntityFrameworkCore.Abstractions.2.2.6\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Abstractions.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.EntityFrameworkCore.Relational, Version=2.2.6.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.EntityFrameworkCore.Relational.2.2.6\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Relational.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.Caching.Abstractions, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Extensions.Caching.Abstractions.2.2.0\lib\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll</HintPath>
@@ -151,16 +139,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConnectedLayer.cs" />
-    <Compile Include="EF\BookCatalogContext.cs" />
     <Compile Include="Enteties\Abstracions\BaseEntity.cs" />
     <Compile Include="Enteties\Author.cs" />
     <Compile Include="Enteties\AuthorBook.cs" />
     <Compile Include="Enteties\Book.cs" />
-    <Compile Include="Helpers\BookCatalogDbInitialize.cs" />
     <Compile Include="Repositories\Interfaces\IAuthorBookRepository.cs" />
     <Compile Include="Repositories\Interfaces\IAuthorRepository.cs" />
     <Compile Include="Repositories\Interfaces\IBookRepository.cs" />
-    <Compile Include="UnitOfWork\EFUnitOfWork.cs" />
     <Compile Include="UnitOfWork\Interfaces\IUnitOfWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\AuthorBookRepository.cs" />

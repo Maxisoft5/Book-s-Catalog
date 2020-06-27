@@ -1,0 +1,158 @@
+2020-06-27 02:41:17.3533 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 02:41:19.0726 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | Ошибка при создании обработчика раздела конфигурации для system.data: На столбец "InvariantName" наложено ограничение по уникальности. Значение "Devart.Data.SQLite" уже имеется. (D:\Downloads\Book-s-Catalog\DevArtTask\DevArtTask\bin\Debug\DevArtTask.exe.Config line 9).Error encountered during READING operation. - 27.06.2020 2:41:19
+2020-06-27 02:41:19.0726 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | READING operation successfully completed at 27.06.2020 2:41:19;
+2020-06-27 02:44:27.2514 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 02:44:29.4366 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | Ошибка при создании обработчика раздела конфигурации для system.data: На столбец "InvariantName" наложено ограничение по уникальности. Значение "Devart.Data.SQLite" уже имеется. (D:\Downloads\Book-s-Catalog\DevArtTask\DevArtTask\bin\Debug\DevArtTask.exe.Config line 13).Error encountered during READING operation. - 27.06.2020 2:44:29
+2020-06-27 02:44:29.4366 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | READING operation successfully completed at 27.06.2020 2:44:29;
+2020-06-27 02:46:07.6733 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 02:46:08.4592 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | Ошибка при создании обработчика раздела конфигурации для system.data: На столбец "InvariantName" наложено ограничение по уникальности. Значение "Devart.Data.SQLite" уже имеется. (D:\Downloads\Book-s-Catalog\DevArtTask\DevArtTask\bin\Debug\DevArtTask.exe.Config line 11).Error encountered during READING operation. - 27.06.2020 2:46:08
+2020-06-27 02:46:08.4592 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | READING operation successfully completed at 27.06.2020 2:46:08;
+2020-06-27 02:46:18.6749 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 02:46:58.6426 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | Ошибка при создании обработчика раздела конфигурации для system.data: На столбец "InvariantName" наложено ограничение по уникальности. Значение "Devart.Data.SQLite" уже имеется. (D:\Downloads\Book-s-Catalog\DevArtTask\DevArtTask\bin\Debug\DevArtTask.exe.Config line 13).Error encountered during READING operation. - 27.06.2020 2:46:58
+2020-06-27 02:47:01.4880 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | READING operation successfully completed at 27.06.2020 2:47:01;
+2020-06-27 02:50:43.6321 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 02:51:19.8606 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | Ошибка при создании обработчика раздела конфигурации для system.data: На столбец "InvariantName" наложено ограничение по уникальности. Значение "Devart.Data.SQLite" уже имеется. (D:\Downloads\Book-s-Catalog\DevArtTask\DevArtTask\bin\Debug\DevArtTask.exe.Config line 11).Error encountered during READING operation. - 27.06.2020 2:51:19
+2020-06-27 02:51:21.2868 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | READING operation ended at 27.06.2020 2:51:21;
+2020-06-27 02:54:38.6704 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 02:54:48.7611 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | Ошибка при создании обработчика раздела конфигурации для system.data: На столбец "InvariantName" наложено ограничение по уникальности. Значение "Devart.Data.SQLite" уже имеется. (D:\Downloads\Book-s-Catalog\DevArtTask\DevArtTask\bin\Debug\DevArtTask.exe.Config line 13).Error encountered during READING operation. - 27.06.2020 2:54:48
+2020-06-27 02:54:49.5151 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | READING operation ended at 27.06.2020 2:54:49;
+2020-06-27 02:55:38.1348 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 02:55:39.2298 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SqlClient'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information..Error encountered during READING operation. - 27.06.2020 2:55:39
+2020-06-27 02:55:39.2298 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | READING operation ended at 27.06.2020 2:55:39;
+2020-06-27 02:55:57.7294 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 02:55:58.6988 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | Ошибка при создании обработчика раздела конфигурации для system.data: На столбец "InvariantName" наложено ограничение по уникальности. Значение "Devart.Data.SQLite" уже имеется. (D:\Downloads\Book-s-Catalog\DevArtTask\DevArtTask\bin\Debug\DevArtTask.exe.Config line 9).Error encountered during READING operation. - 27.06.2020 2:55:58
+2020-06-27 02:55:58.6988 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | READING operation ended at 27.06.2020 2:55:58;
+2020-06-27 03:14:52.1974 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 03:14:55.0477 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | Ключевое слово не поддерживается: "connectionstring;failifmissing"..Error encountered during READING operation. - 27.06.2020 3:14:55
+2020-06-27 03:14:55.0477 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | READING operation ended at 27.06.2020 3:14:55;
+2020-06-27 03:15:08.8020 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 03:15:11.2015 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | Ошибка при создании обработчика раздела конфигурации для system.data: На столбец "InvariantName" наложено ограничение по уникальности. Значение "Devart.Data.SQLite" уже имеется. (D:\Downloads\Book-s-Catalog\DevArtTask\DevArtTask\bin\Debug\DevArtTask.exe.Config line 13).Error encountered during READING operation. - 27.06.2020 3:15:11
+2020-06-27 03:15:11.2015 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | READING operation ended at 27.06.2020 3:15:11;
+2020-06-27 03:30:05.0496 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 03:30:06.7850 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SqlClient'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information..Error encountered during READING operation. - 27.06.2020 3:30:06
+2020-06-27 03:30:06.7850 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | READING operation ended at 27.06.2020 3:30:06;
+2020-06-27 03:43:37.0574 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 03:43:43.1780 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SqlClient'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information..Error encountered during READING operation. - 27.06.2020 3:43:43
+2020-06-27 03:43:43.1780 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | READING operation ended at 27.06.2020 3:43:43;
+2020-06-27 05:37:42.9097 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 05:39:13.5384 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 05:41:57.2767 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 10:34:15.5578 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 12:08:58.4310 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 12:09:14.9697 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 12:10:01.4913 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 12:12:59.3625 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 12:13:00.5693 | TRACE | DAL.Repositories.BookRepository | READING operation ended at 27.06.2020 12:13:00;
+2020-06-27 12:14:27.6585 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 12:14:28.3806 | TRACE | DAL.Repositories.BookRepository | READING operation ended at 27.06.2020 12:14:28;
+2020-06-27 12:15:24.2860 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 12:15:25.2643 | TRACE | DAL.Repositories.BookRepository | READING operation ended at 27.06.2020 12:15:25;
+2020-06-27 12:16:18.7438 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 12:16:19.3422 | TRACE | DAL.Repositories.BookRepository | SQLite error
+ambiguous column name: id. Error encountered during READING operation. - 27.06.2020 12:16:19
+2020-06-27 12:16:19.3422 | TRACE | DAL.Repositories.BookRepository | READING operation ended at 27.06.2020 12:16:19;
+2020-06-27 12:17:51.5982 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 12:17:52.1726 | TRACE | DAL.Repositories.BookRepository | SQLite error
+ambiguous column name: id. Error encountered during READING operation. - 27.06.2020 12:17:52
+2020-06-27 12:17:52.1726 | TRACE | DAL.Repositories.BookRepository | READING operation ended at 27.06.2020 12:17:52;
+2020-06-27 12:18:49.9974 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 12:18:50.8561 | TRACE | DAL.Repositories.BookRepository | SQLite error
+ambiguous column name: id. Error encountered during READING operation. - 27.06.2020 12:18:50
+2020-06-27 12:18:50.8561 | TRACE | DAL.Repositories.BookRepository | READING operation ended at 27.06.2020 12:18:50;
+2020-06-27 12:19:00.8335 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 12:19:01.4079 | TRACE | DAL.Repositories.BookRepository | SQLite error
+ambiguous column name: id. Error encountered during READING operation. - 27.06.2020 12:19:01
+2020-06-27 12:19:01.4079 | TRACE | DAL.Repositories.BookRepository | READING operation ended at 27.06.2020 12:19:01;
+2020-06-27 12:19:22.1890 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 12:19:22.6118 | TRACE | DAL.Repositories.BookRepository | READING operation ended at 27.06.2020 12:19:22;
+2020-06-27 12:20:49.2818 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 12:20:49.8163 | TRACE | DAL.Repositories.BookRepository | READING operation ended at 27.06.2020 12:20:49;
+2020-06-27 12:21:18.1615 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-27 12:21:19.8051 | TRACE | DAL.Repositories.BookRepository | READING operation ended at 27.06.2020 12:21:19;

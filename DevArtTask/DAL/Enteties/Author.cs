@@ -11,7 +11,7 @@ namespace DAL.Enteties
         public string Firstname { get; set; }
         [Required(ErrorMessage = "Enter author's lastname"), MaxLength(45)]
         [RegularExpression(@"(^\w)|(\s\w)")]
-        public string Lirstname { get; set; }
+        public string Lastname { get; set; }
         public virtual ICollection<AuthorBook> AuthorBooks { get; set; }
     }
 }

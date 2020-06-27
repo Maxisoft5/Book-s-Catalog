@@ -1,0 +1,59 @@
+2020-06-26 21:54:27.6190 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-26 21:54:28.7829 | TRACE | DAL.Repositories.BookRepository | READING successfully completed at 26.06.2020 21:54:28;
+2020-06-26 21:54:29.4668 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | The connection string 'ConnectionString' in the application's configuration file does not contain the required providerName attribute.".Error encountered during INSERT operation. - 26.06.2020 21:54:29
+2020-06-26 21:54:29.4668 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | INSERT operation successfully completed at 26.06.2020 21:54:29;
+2020-06-26 21:54:45.3155 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-26 21:54:46.3557 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | The connection string 'ConnectionString' in the application's configuration file does not contain the required providerName attribute.".Error encountered during INSERT operation. - 26.06.2020 21:54:46
+2020-06-26 21:54:46.3557 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | INSERT operation successfully completed at 26.06.2020 21:54:46;
+2020-06-26 21:55:59.2848 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-26 21:56:08.1371 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-26 21:56:09.1104 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | The connection string 'ConnectionString' in the application's configuration file does not contain the required providerName attribute.".Error encountered during READING operation. - 26.06.2020 21:56:09
+2020-06-26 21:56:09.1104 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | READING operation successfully completed at 26.06.2020 21:56:09;
+2020-06-26 22:00:40.1231 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-26 22:00:41.8149 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | The connection string 'ConnectionString' in the application's configuration file does not contain the required providerName attribute.".Error encountered during READING operation. - 26.06.2020 22:00:41
+2020-06-26 22:00:41.8149 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | READING operation successfully completed at 26.06.2020 22:00:41;
+2020-06-26 22:01:14.9739 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-26 22:01:16.3464 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | The connection string 'ConnectionString' in the application's configuration file does not contain the required providerName attribute.".Error encountered during READING operation. - 26.06.2020 22:01:16
+2020-06-26 22:01:16.3464 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | READING operation successfully completed at 26.06.2020 22:01:16;
+2020-06-26 22:02:10.2499 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-26 22:02:11.0270 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | The connection string 'ConnectionString' in the application's configuration file does not contain the required providerName attribute.".Error encountered during READING operation. - 26.06.2020 22:02:11
+2020-06-26 22:02:11.0270 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | READING operation successfully completed at 26.06.2020 22:02:11;
+2020-06-26 22:02:51.1120 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-26 22:02:52.0131 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | The connection string 'ConnectionString' in the application's configuration file does not contain the required providerName attribute.".Error encountered during READING operation. - 26.06.2020 22:02:52
+2020-06-26 22:02:52.0131 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | READING operation successfully completed at 26.06.2020 22:02:52;
+2020-06-26 22:03:57.9393 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-26 22:03:58.6889 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | The connection string 'ConnectionString' in the application's configuration file does not contain the required providerName attribute.".Error encountered during READING operation. - 26.06.2020 22:03:58
+2020-06-26 22:03:58.6889 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | READING operation successfully completed at 26.06.2020 22:03:58;
+2020-06-26 22:05:37.7030 | TRACE | DAL.ConnectedLayer | Connection to
+Data Source: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+Database: 
+State: ClosedUser: Catalog: Server: D:\Tasks\DevArtTask\DevArtTask\BooksDb.db
+2020-06-26 22:05:39.4446 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | The connection string 'ConnectionString' in the application's configuration file does not contain the required providerName attribute.".Error encountered during READING operation. - 26.06.2020 22:05:39
+2020-06-26 22:05:39.4446 | TRACE | DAL.EF.EFRepositories.Repositories.BaseRepository | READING operation successfully completed at 26.06.2020 22:05:39;

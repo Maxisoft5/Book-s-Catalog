@@ -1,13 +1,16 @@
 ﻿
 using DAL.Enteties.Abstracions;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DAL.Enteties
 {
     public class AuthorBook : BaseEntity
-    { 
-        public int? AuthorId { get; set; }
-        public Author Author { get; set; }
-        public int? BookId { get; set; }
-        public Book Book { get; set; }
+    {
+        [ForeignKey(nameof(Enteties.Author))]
+        public string AuthorId { get; set; }
+        public virtual Author Author { get; set; }
+        [ForeignKey(nameof(Enteties.Book))]
+        public string BookId { get; set; }
+        public virtual Book Book { get; set; }
     }
 }

@@ -1,5 +1,4 @@
-﻿using DAL.EF;
-using DAL.Enteties;
+﻿using DAL.Enteties;
 using DAL.Repositories.Interfaces;
 using Devart.Data.SQLite;
 using NLog;
@@ -20,11 +19,6 @@ namespace DAL.Repositories
         {
             layer = new ConnectedLayer();
         }
-        public BookRepository(BookCatalogContext context)
-        {
-
-        }
-
         public void Delete()
         {
             bool IsDigit = true;
@@ -50,22 +44,22 @@ namespace DAL.Repositories
                         }
                         catch (NullReferenceException ex)
                         {
-                            logger.Trace($"{ex.Message}. Error encountered during INSERT operation. - {DateTime.Now}");
-                            Console.WriteLine($"Error encountered during INSERT operation. See details in log file");
+                            logger.Trace($"{ex.Message}. Error encountered during DELETE operation. - {DateTime.Now}");
+                            Console.WriteLine($"Error encountered during DELETE operation. See details in log file");
                         }
                         catch (SQLiteException ex)
                         {
-                            logger.Trace($"{ex.Message}. Error encountered during INSERT operation. - {DateTime.Now}");
-                            Console.WriteLine($"Error encountered during INSERT operation. See details in log file");
+                            logger.Trace($"{ex.Message}. Error encountered during DELETE operation. - {DateTime.Now}");
+                            Console.WriteLine($"Error encountered during DELETE operation. See details in log file");
                         }
                         catch (Exception ex)
                         {
-                            logger.Trace($"{ex.Message}.Error encountered during INSERT operation. - {DateTime.Now}");
-                            Console.WriteLine($"{ex.Message}.Error encountered during INSERT operation. See details in log file");
+                            logger.Trace($"{ex.Message}.Error encountered during DELETE operation. - {DateTime.Now}");
+                            Console.WriteLine($"{ex.Message}.Error encountered during DELETE operation. See details in log file");
                         }
                         finally
                         {
-                            logger.Trace($"INSERT operation successfully completed at {DateTime.Now};{aff} rows were affected");
+                            logger.Trace($"DELETE operation successfully completed at {DateTime.Now};{aff} rows were affected");
                             command.Dispose();
                             conn.Close();
                             IsDigit = false;
@@ -193,7 +187,7 @@ namespace DAL.Repositories
                 }
                 finally
                 {
-                    logger.Trace($"INSERT operation successfully completed at {DateTime.Now}; {aff} rows were affected");
+                    logger.Trace($"INSERT operation ended at {DateTime.Now};");
                     command.Dispose();
                     myTrans.Dispose();
                 }
@@ -215,9 +209,7 @@ namespace DAL.Repositories
                 SQLiteCommand command = conn.CreateCommand();
                 try
                 {
-                    conn.Open();
                     command.CommandText = queryWithoutauthors;
-                    command.CommandText = queryWithauthors;
                     using (SQLiteDataReader reader = command.ExecuteReader())
                     {
                         // printing the column names 
@@ -237,6 +229,7 @@ namespace DAL.Repositories
                             Console.Write(Environment.NewLine);
                         }
                         myTrans.Commit();
+                        command.CommandText = queryWithauthors;
                     }
                     using (SQLiteDataReader reader = command.ExecuteReader())
                     {
@@ -280,7 +273,7 @@ namespace DAL.Repositories
                 {
                     command.Dispose();
                     myTrans.Dispose();
-                    logger.Trace($"READING successfully completed at {DateTime.Now};");
+                    logger.Trace($"READING operation ended at {DateTime.Now};");
                     conn.Close();
                 }
             }
@@ -332,23 +325,23 @@ namespace DAL.Repositories
                         }
                         catch (NullReferenceException ex)
                         {
-                            logger.Trace($"{ex.Message}. Error encountered during INSERT operation. - {DateTime.Now}");
-                            Console.WriteLine($"Error encountered during INSERT operation. See details in log file");
+                            logger.Trace($"{ex.Message}. Error encountered during UPDATE operation. - {DateTime.Now}");
+                            Console.WriteLine($"Error encountered during UPDATE operation. See details in log file");
                         }
                         catch (SQLiteException ex)
                         {
-                            logger.Trace($"{ex.Message}. Error encountered during INSERT operation. - {DateTime.Now}");
-                            Console.WriteLine($"Error encountered during INSERT operation. See details in log file");
+                            logger.Trace($"{ex.Message}. Error encountered during UPDATE operation. - {DateTime.Now}");
+                            Console.WriteLine($"Error encountered during UPDATE operation. See details in log file");
                         }
                         catch (Exception ex)
                         {
-                            logger.Trace($"{ex.Message}.Error encountered during INSERT operation. - {DateTime.Now}");
-                            Console.WriteLine($"{ex.Message}.Error encountered during INSERT operation. See details in log file");
+                            logger.Trace($"{ex.Message}.Error encountered during UPDATE operation. - {DateTime.Now}");
+                            Console.WriteLine($"{ex.Message}.Error encountered during UPDATE operation. See details in log file");
                         }
                         finally
                         {
                             command.Dispose();
-                            logger.Trace($"INSERT operation successfully completed at {DateTime.Now}; {aff} rows were affected");
+                            logger.Trace($"UPDATE operation ended at {DateTime.Now};");
                             conn.Close();
                             IsDigit = false;
                         }

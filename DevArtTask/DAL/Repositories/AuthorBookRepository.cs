@@ -1,5 +1,4 @@
-﻿using DAL.EF;
-using DAL.Enteties;
+﻿using DAL.Enteties;
 using DAL.Repositories.Interfaces;
 using Devart.Data.SQLite;
 using NLog;
@@ -12,10 +11,6 @@ namespace DAL.Repositories
         readonly Logger logger = LogManager.GetCurrentClassLogger();
         readonly ConnectedLayer layer = new ConnectedLayer();
 
-        public AuthorBookRepository(BookCatalogContext context)
-        {
-
-        }
         public void Delete()
         {
             throw new NotImplementedException();
